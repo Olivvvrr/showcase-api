@@ -12,6 +12,6 @@ pymongo==4.10.1
 dnspython==2.7.0
 python-dotenv==1.0.0
 
-# Bibliotecas opcionais para desempenho e funcionalidades adicionais (remova se não usar)
+# Bibliotecas opcionais para desempenho e funcionalidades adicionais
 uvicorn==0.32.0
 fastapi==0.115.3
